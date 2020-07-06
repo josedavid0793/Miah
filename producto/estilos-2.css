@@ -1,0 +1,42 @@
+body{
+padding: 0;
+margin: 0;
+}
+
+.buscar{
+display: flex;
+justify-content: space-between;
+width: 100%;
+max-width: 1919px;
+margin: auto;
+margin-top: 9px;
+background:#A8C6C8 !important;
+padding: 10px;
+}
+.header-buscar{
+height:18vh;
+background-size: cover;
+margin-top: 0px;
+margin-bottom: 35px;
+background: #A5BBBC;
+}
+/*secction de productos*/
+.pro-h1{
+font-size: 20px;
+font-family: 'Russo One', sans-serif;
+text-transform: uppercase;
+}
+figcaption {
+width: 92% !important;
+height: 25%;
+color: #000 !important;
+font-size: 18px;
+font-weight: 600;
+position: absolute;
+bottom: 0;
+right: 0;
+padding: 6px 14px;
+background-color:#ECFAF9 !important;
+}
+
+
